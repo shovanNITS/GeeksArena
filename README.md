@@ -263,19 +263,6 @@ git push origin feature/your-feature-name
 Submit a Pull Request.
 
 
-## Contact
-
-**Maintainers:**
-
-- **Sumit Debnath**  
-  GitHub: [@sumitdebnath2002](https://github.com/sumitdebnath2002)
-
-- **Shubham Jha**  
-  GitHub: [@shubhamjha-13](https://github.com/shubhamjha-13)
-
-- **Nongamba Nangom**  
-  GitHub: [@Nongamba04](https://github.com/Nongamba04)
-
 Feel free to:
 - Open issues
 - Join discussions
